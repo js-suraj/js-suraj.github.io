@@ -1090,6 +1090,13 @@ section {
   text-align: center;
   font-size: 15px;
 }
+.center-align {
+ 
+  width: 100%;
+
+  padding-left: 150px;
+
+}
 
 #footer .footer-newsletter h4 {
   font-size: 24px;
